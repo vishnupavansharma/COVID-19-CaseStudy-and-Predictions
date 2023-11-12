@@ -1,12 +1,8 @@
-# COVID-19-CaseStudy-and-Predictions [![License](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/tarunk04/COVID-19-CaseStudy-and-Predictions/blob/master/LICENSE)
+# COVID-19-CaseStudy-and-Predictions 
 This repository is a case study, analysis, and visualization of COVID-19 Pandemic spread along with prediction models.
 # Open to All
 If you want to contribute to the notebook or any feedback and suggestions are most welcome. 
  
-# Kaggle
-[Follow me on Kaggle](https://www.kaggle.com/tarunk04)<br>
-[View Latest Version](https://www.kaggle.com/tarunk04/covid-19-case-study-analysis-viz-comparisons)
-
 Silent Features 
 ================
 * Several visualizations of a time-series dataset of covid19 cases.   
